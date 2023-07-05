@@ -1,3 +1,7 @@
+/*
+    * Copyright 2022 Daouda Warme.
+*/
+
 import './App.css';
 import './css/fradisp/fradisp.css'
 import './css/fradisp/fradisp.form.css'
