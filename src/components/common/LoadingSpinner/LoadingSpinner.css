@@ -1,0 +1,22 @@
+@keyframes APPCoreSpinnerSpin8 {
+    0% {
+        transform: rotate(180deg)
+    }
+
+    100% {
+        transform: rotate(540deg)
+    }
+}
+
+@keyframes APPCoreSpinnerSpin12 {
+    0% {
+        transform: rotate(0deg)
+    }
+
+    100% {
+        transform: rotate(360deg)
+    }
+}
+.loading-spinner{
+    animation: APPCoreSpinnerSpin12 1.2s steps(12) infinite;
+}
